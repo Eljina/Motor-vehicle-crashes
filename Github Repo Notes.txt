@@ -1,0 +1,10 @@
+1. Create GitHub repository from browser
+2. Clone repo locally using VScode terminal
+ >> git clone <repo link "https:... ">
+3. Open the repo in VScode
+ >> File -> Open Folder -> Find the cloned repo -> OPEN
+4. If you want new file -> click "+" sign to create new file -> give it a name and extension (.sql for SQL queries, .txt, .py for python)
+5. If you want to push the local change to remote repo
+5.1. git add <file name> (eg. git add mvc.sql)
+5.2. git commit -m "<any informative message>" (eg. git commit -m "added new sql file")
+5.3. git push origin <branch_name> (eg. git push origin main)
