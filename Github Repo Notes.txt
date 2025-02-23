@@ -1,7 +1,7 @@
 1. Create GitHub repository from browser
 2. Clone repo locally using VScode terminal
  >> git clone <repo link "https:... ">
-3. Open the repo in VScode
+3. Open the repo in VScod
  >> File -> Open Folder -> Find the cloned repo -> OPEN
 4. If you want new file -> click "+" sign to create new file -> give it a name and extension (.sql for SQL queries, .txt, .py for python)
 5. If you want to push the local change to remote repo
